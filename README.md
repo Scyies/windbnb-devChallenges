@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">windbnb</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://windbnb-liard.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/Scyies/windbnb-devChallenges">
       Solution
     </a>
     <span> | </span>
@@ -37,22 +37,22 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+Here's my solution and how I got there!
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
+- You can see the demo [here](https://windbnb-liard.vercel.app/)
+- I had a fun time building this project, in the end some things like the placement of the search filter on desktop and mobile turned into something more complciated than I first anticipated but in the end everything worked out fine.
+- For the most part I did more of the same thing, but I got put into action some different takes to the web site design.
+- Unlimited bug works
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+![screenshot](https://i.imgur.com/wAOyDTn.png)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
 - [Tailwind](https://tailwindcss.com/)
+- [Vite](https://vitejs.dev/)
 
 ## Features
 
@@ -74,7 +74,7 @@ $ git clone https://github.com/your-user-name/your-project-name
 $ npm install
 
 # Run the app
-$ npm start
+$ npm run dev
 ```
 
 ## Acknowledgements
@@ -87,6 +87,6 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [Meu portifólio](https://scyies.vercel.app/)
+- GitHub [@Scyies](https://github.com/Scyies)
+- Linkedin [Sérgio Valério](https://www.linkedin.com/in/sergio-valerio/)
